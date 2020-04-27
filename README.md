@@ -12,5 +12,5 @@ You can see more in their website: https://aframe.io/
 
 ## Steps to Create a New A-Frame Project
 
-- npx angle initScene MyAwesomeProject
+- npx angle initscene MyAwesomeProject
 - yarn install or npm i
