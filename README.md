@@ -10,7 +10,11 @@ You can see more in their website: https://aframe.io/
 - yarn start or npm start
 - Enjoy! :smile:
 
-## Steps to Create a New A-Frame Project
+## :point_right: Steps to Create a New A-Frame Project
 
 - npx angle initscene MyAwesomeProject
 - yarn install or npm i
+
+## :man: Author
+
+Luan Eduardo da Costa | [Follow me on Linkedin](https://www.linkedin.com/in/luaneducosta/)
